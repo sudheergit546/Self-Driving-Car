@@ -6,13 +6,13 @@
 </p>
 
 
-Autopilot-TensorFlow A TensorFlow implementation of this Nvidia paper
-with some changes.
+# Autopilot-TensorFlow
 
-How to Use Download the dataset and extract into the repository folder
+A TensorFlow implementation of this [Nvidia](https://www.nvidia.com/en-us/self-driving-cars/) paper with some changes.
 
-Use python train.py to train the model
+# How to Use 
 
-Use python run.py to run the model on a live webcam feed
-
-Use python run\_dataset.py to run the model on the dataset
+- Download the dataset and extract into the repository folder
+- Use python train.py to train the model
+- Use python run.py to run the model on a live webcam feed
+- Use python run\_dataset.py to run the model on the dataset
